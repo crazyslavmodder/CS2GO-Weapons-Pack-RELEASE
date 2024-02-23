@@ -1,5 +1,5 @@
 # CS2GO-Weapons-Pack-RELEASE
-Counter-Strike 2 Weapons Pack for Counter-Strike: Global Offensive
+Counter-Strike 2 Weapons Pack for Counter-Strike: Global Offensive (and Counter-Strike: Source Offensive mod for Counter-Strike: Source [by PiMonFeed])
 # CREDITS
 Stomatolog - Model extraction, world model editing (Shotguns)
 
